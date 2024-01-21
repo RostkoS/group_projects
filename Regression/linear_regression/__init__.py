@@ -1,1 +1,0 @@
-from linear_regression.model import LinearRegression
